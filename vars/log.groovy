@@ -1,5 +1,5 @@
 def info(message) {
-    echo "Hanumantharao: ${essage}"
+    echo "Hanumantharao: ${message}"
 }
 
 def warning(message) {
